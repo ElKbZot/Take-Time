@@ -1,0 +1,221 @@
+/* Este es el css de la pagina INSTRUCCIONES */ 
+
+.TituloPagina {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: orangered;    
+}
+
+.page {
+    background: rgb(79,177,255);
+    background: linear-gradient(90deg, rgba(79,177,255,1) 0%, rgba(0,0,0,1) 50%, rgba(79,177,255,1) 100%);
+}
+
+.card-body {
+    background: rgb(79,177,255);
+    background: linear-gradient(90deg, rgba(79,177,255,1) 0%, rgba(0,0,0,1) 50%, rgba(79,177,255,1) 100%);
+}
+
+.card-text {
+Color: white                                   ;
+font-style: italic;
+font-size: 18px;
+}
+
+.all-body {
+    background: red(79,177,255);    
+background: linear-gradient(90deg, rgba(79,177,255,1) 0%, rgba(0,0,0,1) 50%, rgba(79,177,255,1) 100%);
+}
+
+.btn {
+    background-color: black;
+    border-color: blueviolet;
+    font-style: italic;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+    color: white;
+}
+
+.card-title {
+    color: white;
+    font-style: italic;
+}
+
+.nav-link {
+    color: black;
+    font-size: 25px;
+    font-variant:small-caps;
+    font-weight: bold;
+    letter-spacing: 5px;transition-delay:20ms;
+}
+
+/* Este es el css de la pagina TOMADEDATOS */ 
+
+.title {
+    color: white;
+    font-size: 50px;   
+    font-weight:bold;
+    font-variant:small-caps;
+    line-height:1em;
+    
+}
+
+.btn-datos {
+    background-color: black;
+    border-color: blueviolet;   
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+    color: white;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.form-control {
+    border: 2px solid #000000;
+}
+
+.tomas  {
+color: white;
+padding-top: 15px;
+font-style: oblique;
+letter-spacing: 3px;
+font-weight: bolder;
+padding-right: 5%;
+font-size: larger;
+}
+
+.input-tomas {
+    width: 20%;
+    background-color: black;
+    border-color: blueviolet;
+    color: white;
+    border-radius: 8px;
+}
+
+/* Este es el css de la pagina VALORACIÓN */ 
+
+.table-valoracion {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background: rgb(79,177,255);
+    background: linear-gradient(90deg, rgba(79,177,255,1) 0%, rgba(0,0,0,1) 50%, rgba(79,177,255,1) 100%);
+    color: white;
+    width: 100%;
+    font-weight: bolder;    
+    border-style: groove;
+    border-color: aliceblue;
+}
+
+.titulo-tabla-valoracion {
+    color: white;
+    font-size:18px;
+}
+
+.body-valoracion {
+    background: rgb(79,177,255);
+    background: linear-gradient(90deg, rgba(79,177,255,1) 0%, rgba(0,0,0,1) 50%, rgba(79,177,255,1) 100%);
+}
+
+.form-select {
+    background-color: #000000;
+    border-color:blueviolet;
+    color: white;  
+}
+
+.columna-valor {
+    color: white;
+    padding-left: 12%;
+    font-style: oblique;
+}
+
+.actividad-valoracion{
+    border-radius: 8px;
+    width: 70%;
+}   
+
+/* Este es el css de la pagina SUPLEMENTOS*/
+
+.body-suplementos {
+    background: rgb(79,177,255);
+    background: linear-gradient(90deg, rgba(79,177,255,1) 0%, rgba(0,0,0,1) 50%, rgba(79,177,255,1) 100%);
+}
+
+.TituloDeLaTablaDeValores {
+    text-align: center;
+    color: white;
+    font-style:italic;
+    font-weight: bolder;
+    letter-spacing: 5px;
+}
+
+.titles-suplementos {
+    color: white;
+    font-style: italic;
+    
+}
+
+.input-suplementos {
+    border-radius: 8px;
+    width: 70%;
+}
+
+.tableSuplementos {  
+color: white;
+font-style: italic;
+font-weight: bolder;
+}
+
+
+
+
+.input-white {
+    border-radius: 8px;
+}
+
+.input-black {
+    border-radius: 8px;
+    background-color: white;
+    border-color: blueviolet;
+    color: black;
+}
+
+
+/* Este es el css de la pagina BALANCEO*/
+
+.table-balanceo {
+    width: 100%;
+    border-style: groove;
+    border-color: white;
+    font-size: 20px;
+    background: rgb(79,177,255);
+    background: linear-gradient(90deg, rgba(79,177,255,1) 0%, rgba(0,0,0,1) 50%, rgba(79,177,255,1) 100%);
+    font-weight: bolder;
+    color: white;
+}
+
+.div-balanceo {
+    font-weight: bolder;
+    color: black;
+}
+
+.hr {
+    color: white;
+    outline-style:groove;
+}
+
+.icono {
+    color: blueviolet;
+}
+
+.base-balanceo {
+    border-radius: 8px;
+    border-color:blue;
+}
+
+.input-balanceo {
+    border-radius: 8px;
+    width: 70%;
+}
+
+.input-balanceo-turno {
+    border-radius: 8px;
+    width: 80%;
+}
